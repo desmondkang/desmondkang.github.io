@@ -14,12 +14,19 @@
 
 ## **Networking**
 :stopwatch: 4 Years  
-TODO
+* Network Fundamentals
+* Network Access
+* IP Connectivity
+* IP Services
+* Security Fundamentals
+* Automation & Programmability
+* Traffic Design & Management
 
 ***
 
 ## **Spoken Language**
-**Native Bilingual**: Mandarin, English  
-**Work Professional**: Malay  
-**Casual**: Japanese  
-**Novice**: Korean
+**Mandarin**  :star::star::star::star::star:  
+**English**   &nbsp;&nbsp;&nbsp;&nbsp;:star::star::star::star::star:  
+**Malay**     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:star::star::star::star:  
+**Japanese**  &nbsp;:star::star::star:  
+**Korean**    &nbsp;&nbsp;&nbsp;&nbsp;:star:  
