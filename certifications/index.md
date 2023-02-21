@@ -17,4 +17,12 @@
 :school: Huawei ICT Academy  
 :date: December 2022 - December 2025  
 :mortar_board: Data Communication, Network Automation, ICT Core Technology  
-[![HCIP](HCIP.png)](https://drive.google.com/file/d/165XUZj96WHtSRrT3nPYj9roVdAwG-2HT/view?usp=share_link)
+[![HCIP Datacom](HCIP.png)](https://drive.google.com/file/d/165XUZj96WHtSRrT3nPYj9roVdAwG-2HT/view?usp=share_link)
+
+***
+
+## **Huawei Certified ICT Associate (HCIA)**
+:school: Huawei ICT Academy  
+:date: November 2022 - November 2025  
+:mortar_board: Network Basics, Network Access, WAN, WLAN  
+[![HCIA Datacom](HCIA.png)](https://drive.google.com/file/d/1xVH7f_kg-lSNadYBQCNFRHrlDf82eARC/view?usp=share_link)

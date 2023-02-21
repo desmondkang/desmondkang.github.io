@@ -71,6 +71,7 @@
   <li>Physics: A</li>
   <li>Mathematics: A</li>
   <li>English: A-</li>
+  <li>Malaysian University English Test (MUET): Band 4</li>
 </ol>
 </details>
 
@@ -79,7 +80,7 @@
 ## **Sijil Pelajaran Malaysia (SPM)**
 :school: SMK Bagan Jaya  
 :date: 2013 - 2017  
-:mortar_board: GCPA: 4.0  
+:mortar_board: 7A3B 
 
 <details><summary><strong>Transcripts</strong></summary>
 <ol>

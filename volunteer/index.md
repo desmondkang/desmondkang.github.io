@@ -6,7 +6,8 @@
 ***
 
 ## **CCNA Lab Demo**
-:school: Faculty of Computer Science & Information Technology, UM  
+:school: Faculty of Computer Science & Information Technology  
+:classical_building: University of Malaya  
 :date: October 2022 - December 2022  
 ![Group Photo with My Beloved Juniors](ADVNET.png)
 
@@ -16,7 +17,8 @@ We showcase practical configuration techniques on cisco devices and theoretical 
 ***
 
 ## **Japanese Language Club Teaching Assistant**
-:school: International Student Centre, University of Malaya  
+:school: International Student Centre's (ISC) Global Buddies  
+:classical_building: University of Malaya   
 :date: September 2020 - December 2020   
 ![Discussion with Japanese Tutors](JP.png)
 
