@@ -1,0 +1,57 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>Desmond Kang&#39;s Profile</title>
+        <link>https://desmondkang.github.io/</link>
+        <description>Website about Myself</description>
+        <generator>Hugo -- gohugo.io</generator><language>en</language><copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright><lastBuildDate>Tue, 21 Feb 2023 11:35:28 &#43;0800</lastBuildDate>
+            <atom:link href="https://desmondkang.github.io/index.xml" rel="self" type="application/rss+xml" />
+        <item>
+    <title>Working Experiences</title>
+    <link>https://desmondkang.github.io/working-experiences/</link>
+    <pubDate>Mon, 20 Feb 2023 21:39:09 &#43;0800</pubDate>
+    <author>Desmond Kang</author>
+    <guid>https://desmondkang.github.io/working-experiences/</guid>
+    <description><![CDATA[Discover my Working Experience in the World of Technology]]></description>
+</item>
+<item>
+    <title>Achievement and Awards</title>
+    <link>https://desmondkang.github.io/achievement-and-awards/</link>
+    <pubDate>Mon, 20 Feb 2023 22:18:28 &#43;0800</pubDate>
+    <author>Desmond Kang</author>
+    <guid>https://desmondkang.github.io/achievement-and-awards/</guid>
+    <description><![CDATA[View My Past Achievements and Awards]]></description>
+</item>
+<item>
+    <title>Professional Certifications</title>
+    <link>https://desmondkang.github.io/certifications/</link>
+    <pubDate>Mon, 20 Feb 2023 21:39:09 &#43;0800</pubDate>
+    <author>Desmond Kang</author>
+    <guid>https://desmondkang.github.io/certifications/</guid>
+    <description><![CDATA[Past Certification Exams and Career Pathway]]></description>
+</item>
+<item>
+    <title>Education Background</title>
+    <link>https://desmondkang.github.io/education/</link>
+    <pubDate>Mon, 20 Feb 2023 21:39:09 &#43;0800</pubDate>
+    <author>Desmond Kang</author>
+    <guid>https://desmondkang.github.io/education/</guid>
+    <description><![CDATA[Discover My Past Education Background]]></description>
+</item>
+<item>
+    <title>Skillsets</title>
+    <link>https://desmondkang.github.io/skillsets/</link>
+    <pubDate>Tue, 21 Feb 2023 11:35:28 &#43;0800</pubDate>
+    <author>Desmond Kang</author>
+    <guid>https://desmondkang.github.io/skillsets/</guid>
+    <description><![CDATA[Discover my Skills]]></description>
+</item>
+<item>
+    <title>Volunteerism</title>
+    <link>https://desmondkang.github.io/volunteer/</link>
+    <pubDate>Mon, 20 Feb 2023 21:39:09 &#43;0800</pubDate>
+    <author>Desmond Kang</author>
+    <guid>https://desmondkang.github.io/volunteer/</guid>
+    <description><![CDATA[View My Recent Volunteering Activities]]></description>
+</item>
+</channel>
+</rss>
