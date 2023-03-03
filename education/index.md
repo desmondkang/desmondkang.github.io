@@ -9,7 +9,7 @@
 :school: Faculty of Computer Science & Information Technology  
 :classical_building: University of Malaya  
 :date: October 2019 - February 2023  
-:mortar_board: CGPA: 3.98  
+:mortar_board: CGPA: 3.98, Pass with Honours (with Distinction)  
 
 <details><summary><strong>Transcripts</strong></summary>
 <p><strong>Core</strong></p>
@@ -17,9 +17,13 @@
   <li>Network Technology Foundation: A</li>
   <li>Network Security: A+</li>
   <li>Advanced Network Technology: A+</li>
+  <li>Enterprise Network Design & Management: A+</li>
   <li>Cryptography: A+</li>
+  <li>Information Security Management & Ethics: A+</li>
   <li>Computer Penetration: A+</li>
+  <li>Principles of Distributed Systems: A</li>
   <li>Computing Mathematics: A+</li>
+  <li>Mathematics in Networking: A+</li>
   <li>Probability and Statistics: A</li>
   <li>Information Systems: A</li>
   <li>Internet Technology: A+</li>
@@ -45,6 +49,7 @@
 <p><strong>misc.</strong></p>
 <ol>
   <li>Academic Project I: A+</li>
+  <li>Academic Project II: A+</li>
   <li>Industrial Training: A+</li>
   <li>Basic Entrepreneurship Enculturation: A</li>
   <li>Community Server: A+</li>
