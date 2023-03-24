@@ -5,6 +5,15 @@
 
 ***
 
+## **Huawei ICT Competition - Asia Pacific**
+:trophy: Champion (Asia Pacific)  
+:school: Huawei ICT Academy  
+:date: 17 March 2022  
+
+[![Huawei Regional](Huawei_Regional.png)](https://drive.google.com/file/d/19AEWFoBQcayIpp_BAw3CkvOkZ8Zv3v01/view?usp=share_link)
+
+***
+
 ## **Cisco Asia-Pacific, Japan and China NetAcad Riders Competition**
 :trophy: Champion (Malaysia)  
 :school: Cisco Network Academy  
@@ -14,12 +23,12 @@
         
 ***
 
-## **Huawei ICT Competition**
+## **Huawei ICT Competition - Malaysia**
 :trophy: Champion (Malaysia)  
 :school: Huawei ICT Academy  
 :date: November 2022  
 
-TODO: Add Certificate Photo
+[![Huawei National](Huawei_National.png)](https://drive.google.com/file/d/199Bp4_Bhwr5SVG9QGllip1WK5d_ON8lj/view?usp=share_link)
 
 ***
 
