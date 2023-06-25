@@ -67,7 +67,7 @@
 ## **Peperiksaan Semester Program Matrikulasi (PSPM)**
 :school: Perak Matriculation College (KMPk)  
 :date: May 2018 - April 2019  
-:mortar_board: GCPA: 4.0
+:mortar_board: CGPA: 4.0
 
 <details><summary><strong>Transcripts</strong></summary>
 <ol>

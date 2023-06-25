@@ -5,10 +5,21 @@
 
 ***
 
+## **Huawei ICT Competition - Global**
+:trophy: Second Prize (Global)  
+:school: Huawei ICT Academy  
+:date: 28 May 2022  
+:earth_asia: ShenZhen, China  
+
+[![Huawei Global](Huawei_Global.png)](https://drive.google.com/file/d/1AdwCLSxpvY6jN5p7Z0iCsI669hOCofJL/view?usp=drive_link)
+
+***
+
 ## **Huawei ICT Competition - Asia Pacific**
 :trophy: Champion (Asia Pacific)  
 :school: Huawei ICT Academy  
 :date: 17 March 2022  
+:earth_asia: Jakarta, Indonesia  
 
 [![Huawei Regional](Huawei_Regional.png)](https://drive.google.com/file/d/19AEWFoBQcayIpp_BAw3CkvOkZ8Zv3v01/view?usp=share_link)
 
@@ -23,10 +34,11 @@
         
 ***
 
-## **Huawei ICT Competition - Malaysia**
+## **Huawei ICT Competition - National**
 :trophy: Champion (Malaysia)  
 :school: Huawei ICT Academy  
 :date: November 2022  
+:earth_asia: Kuala Lumpur, Malaysia  
 
 [![Huawei National](Huawei_National.png)](https://drive.google.com/file/d/199Bp4_Bhwr5SVG9QGllip1WK5d_ON8lj/view?usp=share_link)
 
